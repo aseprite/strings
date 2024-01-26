@@ -97,10 +97,10 @@ an unified package to offer a proper Aseprite UX in different languages.
 
 ## License
 
-All the translation work is licensed under the Creative Commons
-Attribution 4.0 International License. To view a copy of this license,
-visit http://creativecommons.org/licenses/by/4.0/ or send a letter to
-Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+Aseprite translations are licensed under the Creative Commons
+Attribution 4.0 International License. A copy of the license can be
+found in the [LICENSE.txt](LICENSE.txt) file, or visiting the
+http://creativecommons.org/licenses/by/4.0/ website.
 
 ## Contact
 
