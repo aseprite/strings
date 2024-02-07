@@ -41,6 +41,7 @@ of several translators:
 
   * Cerno_b <cerno.b@gmail.com>
   * inxomnyaa <thebigsmilexd@gmail.com>
+  * Philipp Gloor <philipp.gloor@protonmail.com>
 
 * Irish
 
@@ -65,8 +66,11 @@ of several translators:
 
 * Portuguese
 
+  * Ítalo Marques Rodrigues Silva <italomarques1235@gmail.com>
   * Murilo Gama <murilovsky2030@gmail.com>
+  * Pedro henrique <pedrog03615858@gmail.com>
   * puddiCria <puddindesign@gmail.com>
+  * Yuri dos Santos <yrds96@protonmail.com>
 
 * Russian
 
@@ -81,10 +85,16 @@ of several translators:
   * David Capello <david@igara.com>
   * gallegonovato <fran-carro@hotmail.es>
   * Héctor Cortés <frewilfis@protonmail.ch>
+  * Yunes Mohamed <yunesmohamed1973@gmail.com>
+  * Zero <hectorguevara845@gmail.com>
 
 * Swedish
 
   * Samuel Pettersson <samuelpettersson09@gmail.com>
+
+* Turkish
+
+  * Serdar Açıkyol <serdar462@gmail.com>
 
 * Ukrainian
 
