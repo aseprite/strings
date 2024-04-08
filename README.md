@@ -106,6 +106,7 @@ of several translators:
   * silmarey <gaptekparah404@gmail.com>
   * feru aliffarda <worksbyferu@gmail.com>
   * Luqman Firmansyah <luqm4n.firm4n@gmail.com>
+  * Reza Almanda <rezaalmanda27@gmail.com>
   * Thomas Edison <thomasedi47@gmail.com>
   * made by Oink <oinkoinkyeahclub@gmail.com>
 
@@ -195,6 +196,7 @@ of several translators:
 * Slovak
 
   * tobaiasu <kyselicatobias@gmail.com>
+  * Aurel L. <tinokika@gmail.com>
 
 * Spanish
 
@@ -247,6 +249,7 @@ of several translators:
 
 * Vietnamese
 
+  * Nhat Nguyen Duc <iamducnhat@gmail.com>
   * Tình Hữu <huutinh0916@gmail.com>
   * Kinten Le <kinten108101@protonmail.com>
   * WhiTExB3AR <ldxthuy@gmail.com>
