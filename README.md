@@ -46,11 +46,14 @@ of several translators:
 
   * ElvisWong <elviscode2001@gmail.com>
   * 憨憨羊の宇航鸽鸽 <sheepyuhang@163.com>
-  * Héctor Cortés <frewilfis@protonmail.ch>
   * 胡宸翊 <tom238238@gmail.com>
+  * Michael Pan <panmpan@gmail.com>
+  * Héctor Cortés <frewilfis@protonmail.ch>
   * KGS様 <kgs233@126.com>
   * 許圓心 <moon2713519@gmail.com>
   * Feafly <feafly2@gmail.com>
+  * 曾柏誠 <meowmeowcat15@gmail.com>
+  * clause672 <translate.clause672@passinbox.com>
 
 * [Czech](https://hosted.weblate.org/projects/aseprite/aseprite/cs/)
 
@@ -70,8 +73,10 @@ of several translators:
   * Dion van Beelen <dionvanbeelen@gmail.com>
   * Sven Boeckx <svenboeckx2@gmail.com>
   * Thijs Pubanz <thijspubanz1997@gmail.com>
+  * Battuta <vogelnora10@gmail.com>
   * Lodewijk Tossaint <tossaint@gmail.com>
   * Lunathir <cratty79@gmail.com>
+  * Mikachu <micah.sh@proton.me>
 
 * [Filipino](https://hosted.weblate.org/projects/aseprite/aseprite/fil/)
 
@@ -81,16 +86,19 @@ of several translators:
 * [French](https://hosted.weblate.org/projects/aseprite/aseprite/fr/)
 
   * Nathan <bonnemainsnathan@gmail.com>
+  * Titouan NICOLAS <chamalow.moelleux@gmail.com>
   * peperoni <sacerludum@gmail.com>
   * Frata23 <Frata23@outlook.com>
   * John Doe <jondo22@hotmail.com>
+  * Yannis Sébastien Kypraios <yannis@aero-chic.com>
   * Grey <gregorypro@protonmail.com>
   * Louis <louispretends@gmail.com>
   * Kolala <kolala0108@gmail.com>
   * programutox <programutox@disroot.org>
   * EGuillemot <Elouen.Guillemot@gmail.com>
-  * Min0w <minowlya@gmail.com>
   * clause672 <translate.clause672@passinbox.com>
+  * Min0w <minowlya@gmail.com>
+  * Quentin Wojtyna <quentin5990@gmail.com>
   * Hunam (Elie TD) <hunam@disroot.org>
   * Chris Meijer <chrismeijer05@gmail.com>
 
@@ -100,6 +108,7 @@ of several translators:
   * Cerno_b <cerno.b@gmail.com>
   * DustInComp <dustincomp.dev@gmail.com>
   * Philipp Gloor <philipp.gloor@protonmail.com>
+  * Manuel Hölzl <hoelzl1912@gmail.com>
 
 * [Greek](https://hosted.weblate.org/projects/aseprite/aseprite/el/)
 
@@ -108,6 +117,7 @@ of several translators:
 * [Hungarian](https://hosted.weblate.org/projects/aseprite/aseprite/hu/)
 
   * Szíjártó Levente Pál <szijartoleventepal@gmail.com>
+  * grgergo <gergo_g@proton.me>
 
 * [Indonesian](https://hosted.weblate.org/projects/aseprite/aseprite/id/)
 
@@ -179,10 +189,10 @@ of several translators:
   * Paweł Skórka <skuurek@gmail.com>
   * Moriko Kikai <kikai.moriko@gmail.com>
   * Albert Przytuła <przytulaalbert@gmail.com>
+  * Szymszus <zalewszymon@gmail.com>
   * plsprite <plsprite@rt-p.pl>
   * Maks Dziemiańczuk <galaxy7mx@gmail.com>
   * NosToGrubas <szymonixzebce@gmail.com>
-  * Szymszus (Szymszus) <zalewszymon@gmail.com>
 
 * [Portuguese](https://hosted.weblate.org/projects/aseprite/aseprite/pt/)
 
@@ -259,17 +269,18 @@ of several translators:
 
 * [Ukrainian](https://hosted.weblate.org/projects/aseprite/aseprite/uk/)
 
+  * Andrii Leibyk <leibykandrii@gmail.com>
   * Veydzher <veydzherDGswift008@gmail.com>
   * Xenomite <andreysendyk78@gmail.com>
   * Vlad Harmash <hand.by.hand.ash.one@gmail.com>
   * Artem Ostrigniuk <artost2008@gmail.com>
   * George S. <cybcyb@gmail.com>
   * loomweaver <fakexyzzy@gmail.com>
+  * Стик Кирило <kp611889@gmail.com>
   * dio.next.door201bade7ea0e4d3c <dio.next.door@gmail.com>
   * LifeLess <1theivanidze1@gmail.com>
-  * Стик Кирило <kp611889@gmail.com>
-  * volkov <d2oo1dle2x@gmail.com>
   * Arthur Kokan <system0.0a@gmail.com>
+  * volkov <d2oo1dle2x@gmail.com>
   * Vadym Nekhai <vadimnekhai@gmail.com>
 
 * [Vietnamese](https://hosted.weblate.org/projects/aseprite/aseprite/vi/)
@@ -277,6 +288,7 @@ of several translators:
   * Nhat Nguyen Duc <iamducnhat@gmail.com>
   * Tình Hữu <huutinh0916@gmail.com>
   * Kinten Le <kinten108101@protonmail.com>
+  * Bế Trọng Nghĩa <benghia1st@gmail.com>
   * WhiTExB3AR <ldxthuy@gmail.com>
 
 * [Yue (Traditional)](https://hosted.weblate.org/projects/aseprite/aseprite/yue_Hant/)
