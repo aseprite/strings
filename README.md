@@ -227,7 +227,7 @@ of several translators:
 
 * [Romanian](https://hosted.weblate.org/projects/aseprite/aseprite/ro/)
 
-  * Cashew OldDew <cashewolddew@gmail.com>
+  * Cashew OldDew <contactolddew@gmail.com>
 
 * [Russian](https://hosted.weblate.org/projects/aseprite/aseprite/ru/)
 
