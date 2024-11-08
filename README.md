@@ -303,6 +303,7 @@ of several translators:
   * LoveGhost <joefree713@gmail.com>
   * - <kittibest46@gmail.com>
   * Thanapatr Pulpoka <trizg.work@gmail.com>
+  * NatchaLatte Official <foxteary@gmail.com>
 
 * [Turkish](https://hosted.weblate.org/projects/aseprite/aseprite/tr/)
 
