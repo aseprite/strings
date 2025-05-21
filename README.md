@@ -20,7 +20,7 @@ of several translators:
   * Emad Alhaddad (EmadCode) <emad142240@gmail.com>
   * ArabianCrescent (zeyad.hilali) <zeyad.hilali@gmail.com>
   * Pixels (pixels7545) <pixels7545@gmail.com>
-  * Maker craft (makercraft27255) <makercraft27255@gmail.com>
+  * I'm Maker (Im_Maker) <makercraft27255@gmail.com>
   * عبدالرحمان يسري (kilescg70) <kilescg70@gmail.com>
   * Games Toon (GamesToon) <xxtvgoodxx@gmail.com>
 
@@ -70,6 +70,7 @@ of several translators:
   * Feafly (天机Ceyase) <feafly2@gmail.com>
   * 曾柏誠 (d217d75120914449) <meowmeowcat15@gmail.com>
   * clause672 (clause672) <translate.clause672@passinbox.com>
+  * Ming Blouzku (wcotb1399) <wcotb1399@gmail.com>
   * StarskyXIII (StarskyXIII) <starskyxv@gmail.com>
 
 * [Croatian](https://hosted.weblate.org/projects/aseprite/aseprite/hr/)
@@ -79,10 +80,12 @@ of several translators:
 * [Czech](https://hosted.weblate.org/projects/aseprite/aseprite/cs/)
 
   * ID-86 (ID-86) <id86dev@gmail.com>
+  * freezerbox (freezerbox1) <freezercz111@gmail.com>
   * R3doCZ (R3doCZ) <frinkous@email.cz>
   * Bradley Milford (Savo) <bradleymilford@icloud.com>
   * Daniel Hejduk (JellyWasCoding) <jellymail@protonmail.com>
   * Michal Diviš (michalosoft) <michalosoft@gmail.com>
+  * kuba (kubacz) <magmaczcz@gmail.com>
 
 * [Danish](https://hosted.weblate.org/projects/aseprite/aseprite/da/)
 
@@ -96,17 +99,18 @@ of several translators:
   * Jona (meuwser) <jonalohuizen@gmail.com>
   * Thomas Jager (thomasjager) <mail@thomasjager.nl>
   * Kevin Wijnen (kevin-wijnen) <weblate.qy4s7@dralias.com>
-  * Dion van Beelen (dvbeelen) <dionvanbeelen@gmail.com>
   * Sven Boeckx (SvenBoeckx) <svenboeckx2@gmail.com>
+  * Dion van Beelen (dvbeelen) <dionvanbeelen@gmail.com>
   * Thijs Pubanz (TheSlightlyAngryCow) <thijspubanz1997@gmail.com>
   * Battuta (Battuta) <vogelnora10@gmail.com>
   * Lodewijk Tossaint (tossaint) <tossaint@gmail.com>
   * Lunathir (lunathir) <cratty79@gmail.com>
-  * Lisa (divoomgirl) <bloopygirl@tutamail.com>
   * Mikachu (5mikachu) <micah.sh@proton.me>
+  * Lisa (divoomgirl) <bloopygirl@tutamail.com>
 
 * [Esperanto](https://hosted.weblate.org/projects/aseprite/aseprite/eo/)
 
+  * Reese Rivers (reeserivers) <doormattion@gmail.com>
   * Pon Pon (ponponthebonbon) <ponponthebonbon@gmail.com>
 
 * [Filipino](https://hosted.weblate.org/projects/aseprite/aseprite/fil/)
@@ -133,11 +137,11 @@ of several translators:
   * Ekumify (Ekumify) <faymonville.mike@gmail.com>
   * Min0w (min0w) <minowlya@gmail.com>
   * Quentin Wojtyna (quentin5990) <quentin5990@gmail.com>
-  * Kolala (K0LALA) <kolala08@outlook.fr>
   * Hunam (Elie TD) (Hunam6) <hunam@disroot.org>
+  * Kolala (K0LALA) <kolala08@outlook.fr>
   * Chris Meijer (chrismeijer05) <chrismeijer05@gmail.com>
-  * GIraph (giraph) <compte++hosted@netc.fr>
   * Tom Ome (FloweyGaming) <galasse200812@gmail.com>
+  * GIraph (giraph) <compte++hosted@netc.fr>
 
 * [German](https://hosted.weblate.org/projects/aseprite/aseprite/de/)
 
@@ -185,8 +189,8 @@ of several translators:
   * Fabiano Caputo (FabianoIlCapo) <fabiano.caputo@outlook.it>
   * Ascaniolamp (Ascaniolamp) <ascaniolamp@gmail.com>
   * StarFang208 (StarFang208) <polaritymanx@yahoo.it>
-  * Samuele Corsi (stracto) <samuelecorsi07@gmail.com>
   * Luca Esposito (luca.esposito2906) <luca.esposito2906@gmail.com>
+  * Samuele Corsi (stracto) <samuelecorsi07@gmail.com>
   * Leonardo Sorrentino (Leonardo_Sorrentino) <lnrdsorrentino@gmail.com>
 
 * [Japanese](https://hosted.weblate.org/projects/aseprite/aseprite/ja/)
@@ -196,8 +200,8 @@ of several translators:
   * Joachim Larsen (yoakimurarusen) <yoakimurarusen@gmail.com>
   * syou (touhou1972) <touhou1972@gmail.com>
   * まよねえ (mayonee) <demekinn789@gmail.com>
-  * taninon (taninon) <tanimichi@morality-line.com>
   * eihigh (eihigh) <eihigh.contact@gmail.com>
+  * taninon (taninon) <tanimichi@morality-line.com>
   * Lot Empty (emptylot17) <emptylot17@gmail.com>
   * Jojo Holly (JojoHolly) <jojomirabelle@gmail.com>
   * yuji_ap (yuji_ap) <mediamonstermast@gmail.com>
@@ -220,7 +224,7 @@ of several translators:
   * ERavn29 (ERavn29) <emil.rk.09@gmail.com>
   * Lucas Øien (Kekko) <lucas.espen.oien@gmail.com>
 
-* [Norwegian Nynorsk](https://hosted.weblate.org/translate/aseprite/aseprite/nn/)
+* [Norwegian Nynorsk](https://hosted.weblate.org/projects/aseprite/aseprite/nn/)
 
   * Vinjar Drage (vinjardrage) <vinjardrage@gmail.com>
 
@@ -239,13 +243,18 @@ of several translators:
   * Bartosz Jastrzębski (B4rtosz) <bjastrzebski2008@gmail.com>
   * Albert Przytuła (aziomo) <przytulaalbert@gmail.com>
   * Sebuś (hasanoes.02) <hasanoes.02@gmail.com>
-  * Piotr Jurczak (JPiotr) <piotr5jurczak@gmail.com>
-  * Osci5 (osc.kania) <osc.kania@gmail.com>
+  * Szymon Nowak (szymon.nowak0701) <szymon.nowak0701@gmail.com>
   * Tomasz Kujawa (kkomoney) <tomie.kai.wab1@gmail.com>
+  * Piotr Jurczak (JPiotr) <piotr5jurczak@gmail.com>
+  * Emilia Depka (rockycentralparty) <rockycentralparty@gmail.com>
+  * Jakub Marcowski (chubercik) <chubercikbattle@gmail.com>
+  * Olgierd Orlikowski (olo.orlik) <oloorlik@gmail.com>
   * Maks Dziemiańczuk (galaxy7mx) <galaxy7mx@gmail.com>
   * plsprite (plsprite) <plsprite@rt-p.pl>
+  * Osci5 (osc.kania) <osc.kania@gmail.com>
+  * Jose Sánchez del Río (wesmarand) <wesmarand@gmail.com>
   * NosToGrubas (szymonixzebce) <szymonixzebce@gmail.com>
-  * Olgierd Orlikowski (olo.orlik) <oloorlik@gmail.com>
+  * Karol Nowak (Krekers) <krystianarango@go2.pl>
 
 * [Portuguese](https://hosted.weblate.org/projects/aseprite/aseprite/pt/)
 
@@ -253,6 +262,7 @@ of several translators:
   * Murilo Gama (murilovsky2030) <murilovsky2030@gmail.com>
   * estilinguedo (arthur.arge) <arthur.arge@gmail.com>
   * pedrin matador ferreira pinto (Zebbu) <jhaga382@gmail.com>
+  * Gustavo dos Santos (Denellyne) <gustavobarbosavs@gmail.com>
   * Pedro henrique (pedrog03615858) <pedrog03615858@gmail.com>
   * tut13 (tut13) <tutu13tutua13@gmail.com>
   * Ítalo Marques Rodrigues Silva (markes_italo) <italomarques1235@gmail.com>
@@ -260,15 +270,18 @@ of several translators:
 
 * [Portuguese (Brazil)](https://hosted.weblate.org/projects/aseprite/aseprite/pt_BR/)
 
+  * Gabriel Teixeira (Gabreu12) <gabsantos246@gmail.com>
   * Bernardo Emanuel Da Silva Guedes (R3TRO64) <bernardoeguedes@gmail.com>
   * Lui Martinez Laskowski (LuiWolff) <luimlask@gmail.com>
+  * Antonio Silva (antonio.martinsilva64) <antonio.martinsilva64@gmail.com>
   * Lunner (lunner) <lunnerb@outlook.com>
   * Otavio Moraes (otaviomora666) <otaviomora666@gmail.com>
+  * Luciano Rocha (luciano2000) <rochas@gmail.com>
   * Hugo Cardoso (PorraxD) (defeciente15) <defeciente15@gmail.com>
   * Initdd (Initdd) <joaomariagoncalves@sapo.pt>
   * NickoyM (NickoyM) <nicky.m.2201@hotmail.com>
-  * Thalles Felipe Rodrigues de Almeida Santos (thallessellaht) <th4ll3sf3l1p3@gmail.com>
   * Andrew Melo Bezerra da Silva (andrewmelo) <andrewmbs@outlook.com>
+  * Thalles Felipe Rodrigues de Almeida Santos (thallessellaht) <th4ll3sf3l1p3@gmail.com>
   * Miguel Angelo (ApenasAngelo) <mangelogm28@gmail.com>
 
 * [Romanian](https://hosted.weblate.org/projects/aseprite/aseprite/ro/)
@@ -282,9 +295,12 @@ of several translators:
   * Ruslan (Marazmatik) <vovavalenkov15@gmail.com>
   * Макар Разин (Atrafon) <makarrazin14@gmail.com>
   * KostyaM56 (GKostyaM56) <gvozdevkonstantin555@gmail.com>
+  * AnanaSeek4Jam (Ananaseek) <furryananasik@gmail.com>
+  * FuzzMix (FMOF) <fmwolfiechad@gmail.com>
   * Jiddos (Jiddos) <jiddos8@gmail.com>
-  * b4r3ly1egal (b4r3ly1egal) <b4r3ly1egal@gmail.com>
   * Ivan Oranchuk (oranchukivan) <oranchukivan@gmail.com>
+  * b4r3ly1egal (b4r3ly1egal) <b4r3ly1egal@gmail.com>
+  * Maria (lyumotech) <lyumotech@gmail.com>
   * MilesGlitch (MilesGlitch) <vjsaggip@gmail.com>
 
 * [Slovak](https://hosted.weblate.org/projects/aseprite/aseprite/sk/)
@@ -294,20 +310,25 @@ of several translators:
   * tobaiasu (tobaiasu) <kyselicatobias@gmail.com>
 
 * [Spanish](https://hosted.weblate.org/projects/aseprite/aseprite/es/)
+
+  * David Capello (dacap) <david@igara.com>
+  * Christofer W. Herasme (azriel) <cristoferherame@gmail.com>
+  * Héctor Cortés (stonkol) <frewilfis@protonmail.ch>
+  * José Andrés Urdaneta (urdaneta7834) <urdaneta7834@gmail.com>
+  * Zero (ZERO_SS) <hectorguevara845@gmail.com>
+  * Jason Dutta (duttanator@hotmail.com) <duttanator@hotmail.com>
+  * Yunes Mohamed (yunesmohamed1973) <yunesmohamed1973@gmail.com>
+  * EAFC (covervoid) <covervoid@hotmail.com>
+  * Luca Tamagnini (DaPoyo) <wiiuforever25@gmail.com>
+  * JaryhelVega (JaryhelVega) <jaryhelvega369@gmail.com>
+  * Aitornado _8 (aitortq33) <aitortq33@gmail.com>
+
 * [Spanish (Latin America)](https://hosted.weblate.org/projects/aseprite/aseprite/es_419/)
 
   * David Capello (dacap) <david@igara.com>
   * Jordy Tapia (jordytapia19) <jordytapia19@gmail.com>
-  * Christofer W. Herasme (azriel) <cristoferherame@gmail.com>
-  * Héctor Cortés (stonkol) <frewilfis@protonmail.ch>
-  * Zero (ZERO_SS) <hectorguevara845@gmail.com>
   * Sebastian (TianZilla) <leifrgamer@gmail.com>
-  * Jason Dutta (duttanator@hotmail.com) <duttanator@hotmail.com>
-  * Yunes Mohamed (yunesmohamed1973) <yunesmohamed1973@gmail.com>
   * CerealConJugo (cerealconjugo) <lhumbertoceledon@gmail.com>
-  * Luca Tamagnini (DaPoyo) <wiiuforever25@gmail.com>
-  * Aitornado _8 (aitortq33) <aitortq33@gmail.com>
-  * JaryhelVega (JaryhelVega) <jaryhelvega369@gmail.com>
 
 * [Swedish](https://hosted.weblate.org/projects/aseprite/aseprite/sv/)
 
@@ -315,13 +336,14 @@ of several translators:
   * Tom Östergren (tom.ostergren37) <tom.ostergren37@gmail.com>
   * Victor Ahlin (VSwede) <ahlinbengtsson@gmail.com>
   * Christoffer Enedahl (drZool) <christoffer.enedahl@gmail.com>
+  * Love1x2 (Love1x2) <100617love@gmail.com>
   * Fredrik (hellbown) <hellbown@gmail.com>
   * Kristoffer Grundström (Umeaboy) <swedishsailfishosuser@tutanota.com>
   * Samuel Pettersson (samuelpettersson09) <samuelpettersson09@gmail.com>
 
 * [Thai](https://hosted.weblate.org/projects/aseprite/aseprite/th/)
 
-  * Nonthwat Suwannachairop (NonthNatsu) <NonthwatinNatsu@gmail.com>
+  * Nonthawat Suwannachairop (NonthaNatsu) <NonthwatinNatsu@gmail.com>
   * Tanatorn Wanjeeravilai (JOI3) <jobsave1661@gmail.com>
   * Suvijak Nopparatcharoensuk (MeteorVIIx) <guy.suvijak@hotmail.com>
   * P.warapat (TheBMX) <warapat2001@gmail.com>
@@ -340,16 +362,18 @@ of several translators:
   * Zeta Ware (Zetaware) <thetruefodder@gmail.com>
   * Nikolas Pikrammenos (HotWhiskey29) <hotwhiskey29@gmail.com>
   * Onur Kalkan (SnowCliffx) <onurkalkanmv@gmail.com>
-  * Enbiya Çabuk (enbiyacabuk) <enbiyacabuk@gmail.com>
   * Yahyaemir (yahyasekizbes) <yahyasekizbes@gmail.com>
+  * Enbiya Çabuk (enbiyacabuk) <enbiyacabuk@gmail.com>
   * Parkurist (mehhmetselim) <mehhmetselim@gmail.com>
   * Şahin Göksu (psunyter) <psunyter@gmail.com>
+  * Thomas Darkson (ThomasDarkson) <bilginipc@gmail.com>
 
 * [Ukrainian](https://hosted.weblate.org/projects/aseprite/aseprite/uk/)
 
   * Andrii Leibyk (leibykandrii) <leibykandrii@gmail.com>
   * Veydzher (Veydzher) <veydzherDGswift008@gmail.com>
   * Xenomite (Xenomite) <andreysendyk78@gmail.com>
+  * Максим Горпиніч (maksimgorpinic4) <maksimgorpinic4@gmail.com>
   * Vlad Harmash (VladAsh) <hand.by.hand.ash.one@gmail.com>
   * Artem Ostrigniuk (artost2008) <artost2008@gmail.com>
   * George S. (cyb) <cybcyb@gmail.com>
@@ -357,23 +381,24 @@ of several translators:
   * Стик Кирило (Bo0ve) <kp611889@gmail.com>
   * dio.next.door201bade7ea0e4d3c (dio.next.door) <dio.next.door@gmail.com>
   * LifeLess (1theivanidze1) <1theivanidze1@gmail.com>
-  * Arthur Kokan (System) <system0.0a@gmail.com>
   * Ivan H (major_baboonery) <ivanhavran95@gmail.com>
+  * Arthur Kokan (System) <system0.0a@gmail.com>
   * Vadym Nekhai (onix) <vadimnekhai@gmail.com>
 
 * [Vietnamese](https://hosted.weblate.org/projects/aseprite/aseprite/vi/)
 
+  * Duc Thang Nguyen (babia) <ducthangn71007@gmail.com>
   * Nhat Nguyen Duc (iamducnhat) <iamducnhat@gmail.com>
   * Tình Hữu (qpneruy) <huutinh0916@gmail.com>
-  * Ken Inosu (inosuken772003) <inosuken772003@gmail.com>
   * Kinten Le (kinten108101) <kinten108101@protonmail.com>
+  * Ken Inosu (inosuken772003) <inosuken772003@gmail.com>
   * Pham Duc Tai (aoxloty) <ptai24022008@gmail.com>
   * Tung Anh (Stroody) <buihuutunganh2007@gmail.com>
   * Nidro MC (msayta71) <msayta71@gmail.com>
   * Bế Trọng Nghĩa (ichxorya) <benghia1st@gmail.com>
+  * WhiTExB3AR (mercy-thuyle) <ldxthuy@gmail.com>
   * Minh Quân Vũ (quan08012008) <quan08012008@gmail.com>
   * Gia Hieu (haskyalf) <haskyalf@gmail.com>
-  * WhiTExB3AR (mercy-thuyle) <ldxthuy@gmail.com>
 
 A special thanks for the feedback of [TakWolf](https://github.com/TakWolf)
 and its [aseprite-quest](https://github.com/aseprite-quest) work to create
