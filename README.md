@@ -337,11 +337,12 @@ of several translators:
 * [Swedish](https://hosted.weblate.org/projects/aseprite/aseprite/sv/)
 
   * Pon Pon (ponponthebonbon) <ponponthebonbon@gmail.com>
+  * Christian Lampe (Lampe2020) <Stehlampe2020@gmail.com>
   * Tom Östergren (tom.ostergren37) <tom.ostergren37@gmail.com>
   * Victor Ahlin (VSwede) <ahlinbengtsson@gmail.com>
   * Christoffer Enedahl (drZool) <christoffer.enedahl@gmail.com>
-  * Fredrik (hellbown) <hellbown@gmail.com>
   * Love1x2 (Love1x2) <100617love@gmail.com>
+  * Fredrik (hellbown) <hellbown@gmail.com>
   * Kristoffer Grundström (Umeaboy) <swedishsailfishosuser@tutanota.com>
   * Samuel Pettersson (samuelpettersson09) <samuelpettersson09@gmail.com>
 
