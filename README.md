@@ -49,6 +49,7 @@ of several translators:
   * TakWolf (TakWolf) <takwolf@foxmail.com>
   * SRCat.nana (SRCat) <ftxydd@hotmail.com>
   * THGABS (THGABS) <THGABS@outlook.com>
+  * Ziqi Zhu (kressety) <kressety@gmail.com>
   * KGS様 (kgs_sama) <kgs233@126.com>
   * 66six11 (66six11) <2652915018@qq.com>
   * tolese (toleser) <wuguanlin2012@126.com>
@@ -69,13 +70,14 @@ of several translators:
   * 許圓心 (saintor) <moon2713519@gmail.com>
   * Feafly (天机Ceyase) <feafly2@gmail.com>
   * 曾柏誠 (d217d75120914449) <meowmeowcat15@gmail.com>
+  * clause672 (clause672) <translate.clause672@passinbox.com>
   * Ming Blouzku (wcotb1399) <wcotb1399@gmail.com>
   * StarskyXIII (StarskyXIII) <starskyxv@gmail.com>
-  * clause672 (clause672) <translate.clause672@passinbox.com>
 
 * [Croatian](https://hosted.weblate.org/projects/aseprite/aseprite/hr/)
 
   * Tomislav Rakuljić (Kikindo) <tomislav.rakuljic@gmail.com>
+  * Pon Pon (ponponthebonbon) <ponponthebonbon@gmail.com>
 
 * [Czech](https://hosted.weblate.org/projects/aseprite/aseprite/cs/)
 
@@ -84,8 +86,8 @@ of several translators:
   * R3doCZ (R3doCZ) <frinkous@email.cz>
   * Bradley Milford (Savo) <bradleymilford@icloud.com>
   * Daniel Hejduk (JellyWasCoding) <jellymail@protonmail.com>
-  * Michal Diviš (michalosoft) <michalosoft@gmail.com>
   * kuba (kubacz) <magmaczcz@gmail.com>
+  * Michal Diviš (michalosoft) <michalosoft@gmail.com>
 
 * [Danish](https://hosted.weblate.org/projects/aseprite/aseprite/da/)
 
@@ -99,8 +101,8 @@ of several translators:
   * Jona (meuwser) <jonalohuizen@gmail.com>
   * Thomas Jager (thomasjager) <mail@thomasjager.nl>
   * Kevin Wijnen (kevin-wijnen) <weblate.qy4s7@dralias.com>
-  * Dion van Beelen (dvbeelen) <dionvanbeelen@gmail.com>
   * Sven Boeckx (SvenBoeckx) <svenboeckx2@gmail.com>
+  * Dion van Beelen (dvbeelen) <dionvanbeelen@gmail.com>
   * Thijs Pubanz (TheSlightlyAngryCow) <thijspubanz1997@gmail.com>
   * Battuta (Battuta) <vogelnora10@gmail.com>
   * Lodewijk Tossaint (tossaint) <tossaint@gmail.com>
@@ -133,9 +135,9 @@ of several translators:
   * programutox (pgmtx) <programutox@disroot.org>
   * Cankyre (Cankyre) <xilefznokan@gmail.com>
   * EGuillemot (EGuillemot) <Elouen.Guillemot@gmail.com>
+  * clause672 (clause672) <translate.clause672@passinbox.com>
   * Ekumify (Ekumify) <faymonville.mike@gmail.com>
   * Min0w (min0w) <minowlya@gmail.com>
-  * clause672 (clause672) <translate.clause672@passinbox.com>
   * Quentin Wojtyna (quentin5990) <quentin5990@gmail.com>
   * Hunam (Elie TD) (Hunam6) <hunam@disroot.org>
   * Kolala (K0LALA) <kolala08@outlook.fr>
@@ -156,6 +158,7 @@ of several translators:
 * [Greek](https://hosted.weblate.org/projects/aseprite/aseprite/el/)
 
   * Aris (Arisamiga) <arisamiga@gmail.com>
+  * nu mi (harpwood) <harpwood@gmail.com>
   * Pon Pon (ponponthebonbon) <ponponthebonbon@gmail.com>
 
 * [Hungarian](https://hosted.weblate.org/projects/aseprite/aseprite/hu/)
@@ -238,8 +241,8 @@ of several translators:
   * Maciek Brzeski (redfeef) <macbrz47@gmail.com>
   * Jakub Mańczak (jakubmanczak) <jakub+github@manczak.net>
   * Paweł Skórka (Skurek) <skuurek@gmail.com>
-  * Piotr Nita (PetrNita) <petrmnita@gmail.com>
   * Eryk Michalak (gnu-ewm) <gnu.ewm@protonmail.com>
+  * Piotr Nita (PetrNita) <petrmnita@gmail.com>
   * Moriko Kikai (Moriko) <kikai.moriko@gmail.com>
   * Bartosz Jastrzębski (B4rtosz) <bjastrzebski2008@gmail.com>
   * Albert Przytuła (aziomo) <przytulaalbert@gmail.com>
@@ -302,9 +305,9 @@ of several translators:
   * AnanaSeek4Jam (Ananaseek) <furryananasik@gmail.com>
   * FuzzMix (FMOF) <fmwolfiechad@gmail.com>
   * Jiddos (Jiddos) <jiddos8@gmail.com>
+  * b4r3ly1egal (b4r3ly1egal) <b4r3ly1egal@gmail.com>
   * Ivan Oranchuk (oranchukivan) <oranchukivan@gmail.com>
   * Maria (lyumotech) <lyumotech@gmail.com>
-  * b4r3ly1egal (b4r3ly1egal) <b4r3ly1egal@gmail.com>
   * MilesGlitch (MilesGlitch) <vjsaggip@gmail.com>
 
 * [Slovak](https://hosted.weblate.org/projects/aseprite/aseprite/sk/)
@@ -377,8 +380,8 @@ of several translators:
 
   * Andrii Leibyk (leibykandrii) <leibykandrii@gmail.com>
   * Veydzher (Veydzher) <veydzherDGswift008@gmail.com>
-  * Xenomite (Xenomite) <andreysendyk78@gmail.com>
   * Максим Горпиніч (maksimgorpinic4) <maksimgorpinic4@gmail.com>
+  * Xenomite (Xenomite) <andreysendyk78@gmail.com>
   * Vlad Harmash (VladAsh) <hand.by.hand.ash.one@gmail.com>
   * Artem Ostrigniuk (artost2008) <artost2008@gmail.com>
   * George S. (cyb) <cybcyb@gmail.com>
