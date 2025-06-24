@@ -33,6 +33,7 @@ of several translators:
   * flac (monodx) <flac_twin@keemail.me>
   * Tsuprikava Katerina (Kate_belarusachka) <alextea0110@gmail.com>
   * Yauheni (tpyauheni) <eduartpastado@gmail.com>
+  * Алексей (lexa109r) <lexa109r@gmail.com>
   * Макар Разин (Atrafon) <makarrazin14@gmail.com>
 
 * [Cantonese (Traditional Han script)](https://hosted.weblate.org/projects/aseprite/aseprite/yue_Hant/)
@@ -142,7 +143,6 @@ of several translators:
   * Hunam (Elie TD) (Hunam6) <hunam@disroot.org>
   * Kolala (K0LALA) <kolala08@outlook.fr>
   * Chris Meijer (chrismeijer05) <chrismeijer05@gmail.com>
-  * GIraph (giraph) <compte++hosted@netc.fr>
   * Tom Ome (FloweyGaming) <galasse200812@gmail.com>
 
 * [German](https://hosted.weblate.org/projects/aseprite/aseprite/de/)
