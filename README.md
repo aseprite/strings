@@ -44,6 +44,7 @@ of several translators:
 * [Catalan](https://hosted.weblate.org/projects/aseprite/aseprite/ca/)
 
   * Xevi Costa ([xevious83](https://hosted.weblate.org/user/xevious83/))
+  * Adolfo Jayme Barrientos ([Fito](https://hosted.weblate.org/user/Fito/))
 
 * [Chinese (Simplified Han script)](https://hosted.weblate.org/projects/aseprite/aseprite/zh_Hans/)
 
@@ -56,6 +57,7 @@ of several translators:
   * tolese ([toleser](https://hosted.weblate.org/user/toleser/))
   * 鲸流 ([cetaceaqua](https://hosted.weblate.org/user/cetaceaqua/))
   * MSTY2003 ([MSTY2003](https://hosted.weblate.org/user/MSTY2003/))
+  * min ([minonl](https://hosted.weblate.org/user/minonl/))
   * 憨憨羊の宇航鸽鸽 ([SheepYhangCN](https://hosted.weblate.org/user/SheepYhangCN/))
   * WinTP ([fadedflower](https://hosted.weblate.org/user/fadedflower/))
 
@@ -76,6 +78,10 @@ of several translators:
   * clause672 ([clause672](https://hosted.weblate.org/user/clause672/))
   * Ming Blouzku ([wcotb1399](https://hosted.weblate.org/user/wcotb1399/))
   * StarskyXIII ([StarskyXIII](https://hosted.weblate.org/user/StarskyXIII/))
+
+* [Cornish](https://hosted.weblate.org/projects/aseprite/aseprite/kw/)
+
+  * Peter Dubois ([petrosjd](https://hosted.weblate.org/user/petrosjd/))
 
 * [Croatian](https://hosted.weblate.org/projects/aseprite/aseprite/hr/)
 
@@ -111,6 +117,7 @@ of several translators:
   * Battuta ([Battuta](https://hosted.weblate.org/user/Battuta/))
   * Lodewijk Tossaint ([tossaint](https://hosted.weblate.org/user/tossaint/))
   * Lunathir ([lunathir](https://hosted.weblate.org/user/lunathir/))
+  * Thelinpol ([Thelinpol](https://hosted.weblate.org/user/Thelinpol/))
   * Lisa ([divoomgirl](https://hosted.weblate.org/user/divoomgirl/))
   * Mikachu ([5mikachu](https://hosted.weblate.org/user/5mikachu/))
 
@@ -129,6 +136,7 @@ of several translators:
   * Nathan ([NathanBnm](https://hosted.weblate.org/user/NathanBnm/))
   * Titouan NICOLAS ([boubl](https://hosted.weblate.org/user/boubl/))
   * peperoni ([peperoni](https://hosted.weblate.org/user/peperoni/))
+  * skueee ([skueee](https://hosted.weblate.org/user/skueee/))
   * Frata23 ([Frata23](https://hosted.weblate.org/user/Frata23/))
   * Thomas Meslin ([th.meslin](https://hosted.weblate.org/user/th.meslin/))
   * Yannis Sébastien Kypraios ([Yannis-Sbastien](https://hosted.weblate.org/user/Yannis-Sbastien/))
@@ -154,10 +162,13 @@ of several translators:
 * [German](https://hosted.weblate.org/projects/aseprite/aseprite/de/)
 
   * inxomnyaa ([inxomnyaa](https://hosted.weblate.org/user/inxomnyaa/))
+  * numerfolt ([numerfolt](https://hosted.weblate.org/user/numerfolt/))
   * Sven W ([svenw](https://hosted.weblate.org/user/svenw/))
   * Cerno_b ([Cerno-b](https://hosted.weblate.org/user/Cerno-b/))
   * PaulTubeTV ([PaulTubeTV](https://hosted.weblate.org/user/PaulTubeTV/))
   * DustInComp ([dustincomp.dev](https://hosted.weblate.org/user/dustincomp.dev/))
+  * Marvin Trost ([trostmarvin](https://hosted.weblate.org/user/trostmarvin/))
+  * Ettore Atalan ([Atalanttore](https://hosted.weblate.org/user/Atalanttore/))
   * Kaddu ([k44du2](https://hosted.weblate.org/user/k44du2/))
   * Philipp Gloor ([fibbo](https://hosted.weblate.org/user/fibbo/))
   * Manuel Hölzl ([hoelzlmanuel](https://hosted.weblate.org/user/hoelzlmanuel/))
@@ -178,6 +189,7 @@ of several translators:
 
   * Peter Christian Erastus ([Peter_Christian](https://hosted.weblate.org/user/Peter_Christian/))
   * Lesmana ([Nora_Ko](https://hosted.weblate.org/user/Nora_Ko/))
+  * Arif Budiman ([arifpedia](https://hosted.weblate.org/user/arifpedia/))
   * Luqman Firmansyah ([Luqman-F](https://hosted.weblate.org/user/Luqman-F/))
   * Herbi ([herbi](https://hosted.weblate.org/user/herbi/))
   * silmarey ([smy](https://hosted.weblate.org/user/smy/))
@@ -198,9 +210,10 @@ of several translators:
 
 * [Italian](https://hosted.weblate.org/projects/aseprite/aseprite/it/)
 
-  * Fabiano Caputo ([FabianoIlCapo](https://hosted.weblate.org/user/FabianoIlCapo/))
+  * Fabiano Caputo ([flaconia](https://hosted.weblate.org/user/flaconia/))
   * Ascaniolamp ([Ascaniolamp](https://hosted.weblate.org/user/Ascaniolamp/))
   * StarFang208 ([StarFang208](https://hosted.weblate.org/user/StarFang208/))
+  * tfr tint ([tfrtint](https://hosted.weblate.org/user/tfrtint/))
   * Luca Esposito ([luca.esposito2906](https://hosted.weblate.org/user/luca.esposito2906/))
   * Samuele Corsi ([stracto](https://hosted.weblate.org/user/stracto/))
   * Leonardo Sorrentino ([Leonardo_Sorrentino](https://hosted.weblate.org/user/Leonardo_Sorrentino/))
@@ -209,6 +222,7 @@ of several translators:
 * [Japanese](https://hosted.weblate.org/projects/aseprite/aseprite/ja/)
 
   * ヶ ([ulufu_ug](https://hosted.weblate.org/user/ulufu_ug/))
+  * TakWolf ([TakWolf](https://hosted.weblate.org/user/TakWolf/))
   * Kirikabu Wasabi ([Kirikabu](https://hosted.weblate.org/user/Kirikabu/))
   * THGABS ([THGABS](https://hosted.weblate.org/user/THGABS/))
   * Joachim Larsen ([yoakimurarusen](https://hosted.weblate.org/user/yoakimurarusen/))
@@ -232,6 +246,10 @@ of several translators:
   * 프돔 ([pdom0327](https://hosted.weblate.org/user/pdom0327/))
   * 우리엄마가지볶음잘만듬 ([MIDNight](https://hosted.weblate.org/user/MIDNight/))
   * 정원혁 (William Chung) ([mylovesarah](https://hosted.weblate.org/user/mylovesarah/))
+
+* [Lao](https://hosted.weblate.org/projects/aseprite/aseprite/lo/)
+
+  * Bone NI ([bounkirdni](https://hosted.weblate.org/user/bounkirdni/))
 
 * [Norwegian Bokmål](https://hosted.weblate.org/projects/aseprite/aseprite/nb_NO/)
 
@@ -265,6 +283,7 @@ of several translators:
   * Emilia Depka ([rockycentralparty](https://hosted.weblate.org/user/rockycentralparty/))
   * Jakub Marcowski ([chubercik](https://hosted.weblate.org/user/chubercik/))
   * Olgierd Orlikowski ([olo.orlik](https://hosted.weblate.org/user/olo.orlik/))
+  * Yevhenii Davydenko ([zekdav](https://hosted.weblate.org/user/zekdav/))
   * Maks Dziemiańczuk ([galaxy7mx](https://hosted.weblate.org/user/galaxy7mx/))
   * Nikita (Nick) ([nikitosych](https://hosted.weblate.org/user/nikitosych/))
   * Osci5 ([osc.kania](https://hosted.weblate.org/user/osc.kania/))
@@ -295,6 +314,8 @@ of several translators:
   * José Delmiro ([josedelmirojdyt](https://hosted.weblate.org/user/josedelmirojdyt/))
   * Gabriel Teixeira ([Gabreu12](https://hosted.weblate.org/user/Gabreu12/))
   * José Eduardo ([contato.eduardonosilva](https://hosted.weblate.org/user/contato.eduardonosilva/))
+  * puddiCria ([puddiCria](https://hosted.weblate.org/user/puddiCria/))
+  * Juniu ([juniu5535](https://hosted.weblate.org/user/juniu5535/))
   * Bernardo Emanuel Da Silva Guedes ([R3TRO64](https://hosted.weblate.org/user/R3TRO64/))
   * Lui Martinez Laskowski ([LuiWolff](https://hosted.weblate.org/user/LuiWolff/))
   * Zoty ([ZotyDev](https://hosted.weblate.org/user/ZotyDev/))
@@ -317,13 +338,14 @@ of several translators:
 * [Romanian](https://hosted.weblate.org/projects/aseprite/aseprite/ro/)
 
   * Cashew OldDew ([cashew-olddew](https://hosted.weblate.org/user/cashew-olddew/))
+  * sebastian ([BaboboiPR](https://hosted.weblate.org/user/BaboboiPR/))
 
 * [Russian](https://hosted.weblate.org/projects/aseprite/aseprite/ru/)
 
   * Aleksey Smirnov ([lufog](https://hosted.weblate.org/user/lufog/))
   * Blezz Rot ([blezz-tech](https://hosted.weblate.org/user/blezz-tech/))
-  * Anton Melnikov ([botantony](https://hosted.weblate.org/user/botantony/))
   * GhostSlasher ([ghostslasher](https://hosted.weblate.org/user/ghostslasher/))
+  * Anton Melnikov ([botantony](https://hosted.weblate.org/user/botantony/))
   * vanapro1 ([vanapro1](https://hosted.weblate.org/user/vanapro1/))
   * Marazmatik ([Marazmatik](https://hosted.weblate.org/user/Marazmatik/))
   * AnanaSeek4Jam ([Ananaseek](https://hosted.weblate.org/user/Ananaseek/))
@@ -347,7 +369,7 @@ of several translators:
 
   * David Capello ([dacap](https://hosted.weblate.org/user/dacap/))
   * DP ([dprietob](https://hosted.weblate.org/user/dprietob/))
-  * Francisco Serrador ([serrador](https://hosted.weblate.org/user/serrador/))
+  * Adolfo Jayme Barrientos ([Fito](https://hosted.weblate.org/user/Fito/))
   * Christofer W. Herasme ([azriel](https://hosted.weblate.org/user/azriel/))
   * Héctor Cortés ([stonkol](https://hosted.weblate.org/user/stonkol/))
   * José Andrés Urdaneta ([urdaneta7834](https://hosted.weblate.org/user/urdaneta7834/))
@@ -391,22 +413,24 @@ of several translators:
   * Tanatorn Wanjeeravilai ([JOI3](https://hosted.weblate.org/user/JOI3/))
   * TestGame1 ([1TestGame1](https://hosted.weblate.org/user/1TestGame1/))
   * Suvijak Nopparatcharoensuk ([MeteorVIIx](https://hosted.weblate.org/user/MeteorVIIx/))
+  * Kong ([cptkong1](https://hosted.weblate.org/user/cptkong1/))
   * P.warapat ([TheBMX](https://hosted.weblate.org/user/TheBMX/))
   * LoveGhost ([Joe12320031](https://hosted.weblate.org/user/Joe12320031/))
   * coppters ([coppters](https://hosted.weblate.org/user/coppters/))
   * - ([KittiBest](https://hosted.weblate.org/user/KittiBest/))
   * Chris Sophos ([chris-sophos](https://hosted.weblate.org/user/chris-sophos/))
   * Thanapatr Pulpoka ([Triz](https://hosted.weblate.org/user/Triz/))
+  * Krit Autarawisead ([kkrrritt](https://hosted.weblate.org/user/kkrrritt/))
 
 * [Turkish](https://hosted.weblate.org/projects/aseprite/aseprite/tr/)
 
   * Hüseyin Bal ([husobal](https://hosted.weblate.org/user/husobal/))
   * Coşkun Atak ([Coskntkk](https://hosted.weblate.org/user/Coskntkk/))
   * Muhammet Sefa Özçelik ([thereisnobandage](https://hosted.weblate.org/user/thereisnobandage/))
-  * Nikolas Grivas ([HotWhiskey29](https://hosted.weblate.org/user/HotWhiskey29/))
   * Erenay ([ErenayDev](https://hosted.weblate.org/user/ErenayDev/))
+  * Nikolas Grivas ([HotWhiskey29](https://hosted.weblate.org/user/HotWhiskey29/))
   * ilkay norvig (sentinel) ([ilkayistikam](https://hosted.weblate.org/user/ilkayistikam/))
-  * Yusuf Arda Çetin ([yusufardac](https://hosted.weblate.org/user/yusufardac/))
+  * Yusuf Arda ([yusufardac](https://hosted.weblate.org/user/yusufardac/))
   * polarwood ([polarwood](https://hosted.weblate.org/user/polarwood/))
   * Serdar Açıkyol ([serdaracikyol](https://hosted.weblate.org/user/serdaracikyol/))
   * Zeta Ware ([Zetaware](https://hosted.weblate.org/user/Zetaware/))
@@ -416,6 +440,7 @@ of several translators:
   * Enbiya Çabuk ([enbiyacabuk](https://hosted.weblate.org/user/enbiyacabuk/))
   * Parkurist ([mehhmetselim](https://hosted.weblate.org/user/mehhmetselim/))
   * Şahin Göksu ([psunyter](https://hosted.weblate.org/user/psunyter/))
+  * Furkan ([falniak95](https://hosted.weblate.org/user/falniak95/))
   * Thomas Darkson ([ThomasDarkson](https://hosted.weblate.org/user/ThomasDarkson/))
   * ISOByte ([ihsanerenaltunok70](https://hosted.weblate.org/user/ihsanerenaltunok70/))
 
@@ -426,7 +451,8 @@ of several translators:
   * Максим Горпиніч ([maksimgorpinic4](https://hosted.weblate.org/user/maksimgorpinic4/))
   * Xenomite ([Xenomite](https://hosted.weblate.org/user/Xenomite/))
   * Vlad Harmash ([VladAsh](https://hosted.weblate.org/user/VladAsh/))
-  * Максим Горпиніч ([Maksim2005UKR](https://hosted.weblate.org/user/Maksim2005UKR/))
+  * Yevhenii Davydenko ([zekdav](https://hosted.weblate.org/user/zekdav/))
+  * User2068 ([User2068](https://hosted.weblate.org/user/User2068/))
   * Artem Ostrigniuk ([artost2008](https://hosted.weblate.org/user/artost2008/))
   * George S. ([cyb](https://hosted.weblate.org/user/cyb/))
   * loomweaver ([loomweaver](https://hosted.weblate.org/user/loomweaver/))
@@ -440,6 +466,7 @@ of several translators:
 
 * [Vietnamese](https://hosted.weblate.org/projects/aseprite/aseprite/vi/)
 
+  * Linh Trần ([tranquanglinhds](https://hosted.weblate.org/user/tranquanglinhds/))
   * Duc Thang Nguyen ([babia](https://hosted.weblate.org/user/babia/))
   * Nhat Nguyen Duc ([iamducnhat](https://hosted.weblate.org/user/iamducnhat/))
   * Tình Hữu ([qpneruy](https://hosted.weblate.org/user/qpneruy/))
